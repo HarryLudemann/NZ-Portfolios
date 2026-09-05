@@ -16,37 +16,47 @@ criteria first.
 
 Sorted alphabetically by name.
 
-| Name | Site | What's there |
-|---|---|---|
-| Andrew Caudwell | [thealphablenders.com](http://www.thealphablenders.com) | |
-| andrewchambers | [acha.ninja](https://acha.ninja) | |
-| Ben Hoyt | [benhoyt.com](https://benhoyt.com) | GoAWK, inih, and essays on Go, Python, and the small web |
-| Brent Vollebregt | [nitratine.net](https://nitratine.net) | |
-| Chris Beaven | [smileychris.name](https://smileychris.name) | |
-| Christopher Pritchard | [chrispritchard.github.io](https://chrispritchard.github.io) | |
-| Daniel Compton | [danielcompton.net](https://danielcompton.net) | |
-| Daniel Scott-Raynsford | [danielscottraynsford.com](https://danielscottraynsford.com/) | |
-| Dilum De Silva | [dilumdesilva.dev](https://dilumdesilva.dev) | |
-| Eduardo Gurgel | [gurgel.me](https://gurgel.me) | |
-| Félix Saparelli | [passcod.name](https://passcod.name) | |
-| Geoffrey Hunter | [blog.mbedded.ninja](https://blog.mbedded.ninja) | |
-| Harry Ludemann | [harryludemann.com](https://harryludemann.com) | Side projects (LPR API, dealership tools, apps) + car reviews from automotive sales work |
-| Jonathan Giles | [jonathangiles.net](http://jonathangiles.net) | |
-| Joshua Vial | [codewithjv.com](https://codewithjv.com) | |
-| Julian Oes | [julianoes.com](https://julianoes.com) | |
-| Justin Israel | [justinfx.com](https://www.justinfx.com) | |
-| Liam Cottle | [liam.dev](https://liam.dev) | |
-| Mikey | [mikey.nz](https://mikey.nz) | |
-| Nathan Peck | [nathanpeck.com](https://nathanpeck.com) | |
-| Nguyen Viet Hung | [viethung.space](https://viethung.space) | |
-| Richard Littauer | [burntfen.com](https://burntfen.com) | |
-| Richie Bendall | [richienb.github.io](https://richienb.github.io) | |
-| Sam Jarman | [samjarman.co.nz](https://www.samjarman.co.nz) | Dev diaries, talks, and projects from an ex-Wellington engineer |
-| Samuel Dobson | [meshcollider.github.io](https://meshcollider.github.io) | |
-| Schell Carl Scivally | [zyghost.com](http://zyghost.com) | |
-| Thomas Mansencal | [thomasmansencal.com](http://www.thomasmansencal.com) | |
-| Tim McNamara | [timclicks.dev](https://timclicks.dev) | |
-| Tim Smart | [timsmart.co](https://timsmart.co) | |
+| Name                   | Site                                                                                        | What's there                                                                             |
+| ---------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Aleck Shen             | [aleckshen.com](https://aleckshen.com)                                                      |                                                                                          |
+| Alvien Salvador        | [heyalvien.dev](https://heyalvien.dev)                                                      |                                                                                          |
+| Andrew Caudwell        | [thealphablenders.com](http://www.thealphablenders.com)                                     |                                                                                          |
+| andrewchambers         | [acha.ninja](https://acha.ninja)                                                            |                                                                                          |
+| Ashley Thew            | [ashleythew.com](https://ashleythew.com)                                                    |                                                                                          |
+| Ben Hoyt               | [benhoyt.com](https://benhoyt.com)                                                          | GoAWK, inih, and essays on Go, Python, and the small web                                 |
+| Brent Vollebregt       | [nitratine.net](https://nitratine.net)                                                      |                                                                                          |
+| Chris Beaven           | [smileychris.name](https://smileychris.name)                                                |                                                                                          |
+| Christopher Pritchard  | [chrispritchard.github.io](https://chrispritchard.github.io)                                |                                                                                          |
+| Daniel Compton         | [danielcompton.net](https://danielcompton.net)                                              |                                                                                          |
+| Daniel Scott-Raynsford | [danielscottraynsford.com](https://danielscottraynsford.com/)                               |                                                                                          |
+| Derek Lam              | [derek-lam.com](https://derek-lam.com)                                                      |                                                                                          |
+| Dilum De Silva         | [dilumdesilva.dev](https://dilumdesilva.dev)                                                |                                                                                          |
+| Eduardo Gurgel         | [gurgel.me](https://gurgel.me)                                                              |                                                                                          |
+| Félix Saparelli        | [passcod.name](https://passcod.name)                                                        |                                                                                          |
+| Geoffrey Hunter        | [blog.mbedded.ninja](https://blog.mbedded.ninja)                                            |                                                                                          |
+| Harry Ludemann         | [harryludemann.com](https://harryludemann.com)                                              | Side projects (LPR API, dealership tools, apps) + car reviews from automotive sales work |
+| James Hoare            | [jameshoare.com](https://jameshoare.com)                                                    |                                                                                          |
+| Jim Lin                | [jim-lin507.github.io](https://jim-lin507.github.io)                                        |                                                                                          |
+| Jonathan Giles         | [jonathangiles.net](http://jonathangiles.net)                                               |                                                                                          |
+| Joshua Vial            | [codewithjv.com](https://codewithjv.com)                                                    |                                                                                          |
+| Julian Oes             | [julianoes.com](https://julianoes.com)                                                      |                                                                                          |
+| Justin Israel          | [justinfx.com](https://www.justinfx.com)                                                    |                                                                                          |
+| Liam Cottle            | [liam.dev](https://liam.dev)                                                                |                                                                                          |
+| Luke Piper             | [lukepiper03.github.io/Portfolio-Website](https://lukepiper03.github.io/Portfolio-Website/) |                                                                                          |
+| Mikey                  | [mikey.nz](https://mikey.nz)                                                                |                                                                                          |
+| Moxie                  | [moxiemoshpit.com](https://moxiemoshpit.com)                                                | A colorful, planner-style personal site with rainbow visuals and stickers                |
+| Nathan Peck            | [nathanpeck.com](https://nathanpeck.com)                                                    |                                                                                          |
+| Nguyen Viet Hung       | [viethung.space](https://viethung.space)                                                    |                                                                                          |
+| Richard Littauer       | [burntfen.com](https://burntfen.com)                                                        |                                                                                          |
+| Richie Bendall         | [richienb.github.io](https://richienb.github.io)                                            |                                                                                          |
+| Sam Jarman             | [samjarman.co.nz](https://www.samjarman.co.nz)                                              | Dev diaries, talks, and projects from an ex-Wellington engineer                          |
+| Samuel Dobson          | [meshcollider.github.io](https://meshcollider.github.io)                                    |                                                                                          |
+| Schell Carl Scivally   | [zyghost.com](http://zyghost.com)                                                           |                                                                                          |
+| Simon Erkelens         | [firesphere.dev](https://firesphere.dev)                                                    | Open-source PHP/SilverStripe plugins — search, security, GraphQL auth tooling            |
+| Thomas Mansencal       | [thomasmansencal.com](http://www.thomasmansencal.com)                                       |                                                                                          |
+| Tim McNamara           | [timclicks.dev](https://timclicks.dev)                                                      |                                                                                          |
+| Tim Smart              | [timsmart.co](https://timsmart.co)                                                          |                                                                                          |
+
 ---
 
 ## Why this exists
